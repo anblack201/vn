@@ -1,2 +1,1 @@
-# vn
-an black 201 viet nam.
+<marquee><div class="separator" style="clear: both;"><a href="https://vnfuck.blogspot.com/" style="display: block; padding: 1em 0px; text-align: center;"><img alt="" border="0" data-original-height="300" data-original-width="460" src="https://1.bp.blogspot.com/-O75daXFrax0/YNga8bKNeOI/AAAAAAAAAIk/_ipEh9Fru8sPjhcHh-N0z7r1S5PESbodgCLcBGAsYHQ/s320/vnfuck_logo.png" width="320" /></a></div></marquee>
